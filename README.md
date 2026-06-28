@@ -1,5 +1,3 @@
-# Youtube-Video-Analyzer
-
-# Developed a YouTube Video Analyzer using the Agno Agent framework and Streamlit. This application analyzes YouTube videos from a provided URL and generates AI-powered summaries and insights.
+# Youtube-Video-Analyzer created Using Agno and StreamlitAPI
 
 live url - https://youtube-video-analyzer-ma34bdnlh6bzftbwsnsdr2.streamlit.app/
